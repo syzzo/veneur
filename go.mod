@@ -53,13 +53,15 @@ require (
 	github.com/theckman/go-flock v0.0.0-20170522022801-6de226b0d5f0
 	github.com/zenazn/goji v0.9.1-0.20160507202103-64eb34159fe5
 	goji.io v2.0.2+incompatible
-	golang.org/x/mod v0.4.0
-	golang.org/x/sys v0.0.0-20200625212154-ddb9806d33ae
+	golang.org/x/mod v0.8.0
+	golang.org/x/net v0.10.0 // indirect
+	golang.org/x/sys v0.8.0
 	google.golang.org/grpc v1.29.1
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/logfmt.v0 v0.3.0 // indirect
 	gopkg.in/stack.v1 v1.6.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/api v0.0.0-20190325185214-7544f9db76f6
 	k8s.io/apimachinery v0.0.0-20190223001710-c182ff3b9841
 	k8s.io/client-go v8.0.0+incompatible
